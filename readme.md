@@ -1,4 +1,4 @@
-# Welcome
+# Welcome 
 Well hello, it's me, S0m3_random_guy! (You probably never heard of me) I am a learner and I just started to code. Maybe you're like me, and just starting and maybe you're a pro. But enough of this nonsense, let's see what is this project about.
 
 ## About this project
