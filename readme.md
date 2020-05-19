@@ -14,6 +14,7 @@ In order to get featured, your game must fit to all of the guidelines. To find o
 - Game is not stolen/copied
 - Pull request contains a valid URL
 - Pull request contains the creator's signature (that's how you will be displayed in the Mbox store)
+
 ANY FORM OF SPAM WILL BE INSTANTLY REPORTED AND BANNED FROM MBOX REPOSOTORY
 
 ## Reporting an issue/tip
