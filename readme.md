@@ -1,4 +1,4 @@
-# Welcome 
+# Welcome
 Well hello, it's me, S0m3_random_guy! (You probably never heard of me) I am a learner and I just started to code. Maybe you're like me, and just starting and maybe you're a pro. But enough of this nonsense, let's see what is this project about.
 
 ## About this project
@@ -38,4 +38,4 @@ By commiting your work to Mbox reposotory, you accept that:
 - Your work might be vunreable to thieves and rule-breakers
 - Your work's art/code might be copied
 - Your work might be exposed to hate/criticism
-- For any suspiciousness of rule-breaking/inappropriate content, please report the user.
+For any suspiciousness of rule-breaking/inappropriate content, please report the user.
