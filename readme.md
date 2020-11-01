@@ -2,7 +2,7 @@
 Well hello, it's me, S0m3_random_guy! (You probably never heard of me) I am a learner and I just started to code. Maybe you're like me, and just starting and maybe you're a pro. But enough of this nonsense, let's see what is this project about.
 
 ## About this project
-I bet you heard of Xbox. If not, Xbox is a gaming console first presented (I think) 2000. year, created by Microsoft corporation, in order to compete with the dominating Playstation 2. Xbox, even tho a sucess, couldn't even match Playstation in any aspect, until the release of Xbox one, the hit gaming console. Playtation is still the #1 (and will forever be), but in honor to Microsoft for creating Makecode Arcade (and all other makecodes), I have decided to create a Xbox One console inside of Makecode arcade. The idea of this project was to create a gaming console with a Makecode dev community to create games for this project :) For now, let's call it Mbox
+I bet you heard of Xbox. If not, Xbox is a gaming console first presented (I think) in year 2000, created by Microsoft corporation, in order to compete with the dominating Playstation 2. Xbox, even tho a sucess, couldn't even match Playstation in any aspect, until the release of Xbox one, the hit gaming console. Playtation is still the #1 (and will forever be), but in honor to Microsoft for creating Makecode Arcade (and all other makecodes), I have decided to create a Xbox One console inside of Makecode arcade. The idea of this project was to create a gaming console with a Makecode dev community to create games for this project :) For now, let's call it Mbox
 
 ## How to get featured
 In order to get featured, your game must fit to all of the guidelines. To find out how to apply your game, read apply.md
