@@ -1,7 +1,7 @@
 # Applying your game
 ## Text instructions
 ### 1.
-#### Go to https://arcade.makecode.com
+#### Go to <link rel="Makecode arcade" href="arcade.makecode.com">
 ### 2.
 #### Create a new project/goto your game project.
 ### 3.
